@@ -1,10 +1,9 @@
 ## Hi there 👋
-
-My name is Eva and I'm an Electrical &Computer Engineering graduate, interested in networks and security!
+<!--
+My name is Eva and I'm an Electrical &Computer Engineering student, interested in networks and security!
 
 - 🔭 I’m currently working on my thesis about dynamic vehicle routing optimization.
-- 🌱 I’m currently learning ...
-- I recently build a program to ...., check it out [here](http://194.177.201.105/GOR/)
+- 🌱 I recently build a program to ...., check it out [here](http://194.177.201.105/GOR/)
 - 👯 I’m looking to collaborate on ...
 
 <!--
